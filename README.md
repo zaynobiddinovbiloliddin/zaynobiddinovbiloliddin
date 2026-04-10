@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Biloliddin and I'm a Frontend Developer, from O'zbekistan</p>
+<h2 align="left">My name is Biloliddin and I'm a Frontend Developer, from Uzbekistan</h2>
 
 ###
 
